@@ -15,7 +15,7 @@ Lovely Professional University
 ### Development
 
 - Aro
-- Auto Dispenser Machine
+- Auto Dispenser Machine using Arduino
 - Voice Control Humanoid Robotics Arm
 
 ### Projects
